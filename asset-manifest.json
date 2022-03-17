@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gurjar-pawan.github.io/csb-5z4exw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://gurjar-pawan.github.io/csb-5z4exw/static/js/main.f54606b4.chunk.js",
+    "main.js.map": "https://gurjar-pawan.github.io/csb-5z4exw/static/js/main.f54606b4.chunk.js.map",
+    "runtime-main.js": "https://gurjar-pawan.github.io/csb-5z4exw/static/js/runtime-main.817e1a37.js",
+    "runtime-main.js.map": "https://gurjar-pawan.github.io/csb-5z4exw/static/js/runtime-main.817e1a37.js.map",
+    "static/js/2.c6bfcf80.chunk.js": "https://gurjar-pawan.github.io/csb-5z4exw/static/js/2.c6bfcf80.chunk.js",
+    "static/js/2.c6bfcf80.chunk.js.map": "https://gurjar-pawan.github.io/csb-5z4exw/static/js/2.c6bfcf80.chunk.js.map",
+    "index.html": "https://gurjar-pawan.github.io/csb-5z4exw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://gurjar-pawan.github.io/csb-5z4exw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c6bfcf80.chunk.js.LICENSE.txt": "https://gurjar-pawan.github.io/csb-5z4exw/static/js/2.c6bfcf80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.817e1a37.js",
+    "static/js/2.c6bfcf80.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f54606b4.chunk.js"
+  ]
+}
